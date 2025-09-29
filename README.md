@@ -10,8 +10,8 @@ To write a python program to perform stop and wait protocol
 6. Stop the Program
 ## PROGRAM
 
-Developed by : **AHAMED SAHUL HAMEED M*<br>
-Reg No : **212224040016**
+Developed by : **ARUNRAJ R*<br>
+Reg No : **212224110006**
 
 ### Client
 ```python
